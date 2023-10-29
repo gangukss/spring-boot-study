@@ -1,19 +1,19 @@
-Project
+### Project
 Maven
 
-Language
+### Language
 Java
 
-Spring Boot version
+### Spring Boot version
 2.7.17
 
-Packaging
+### Packaging
 jar
 
-Java version
+### Java version
 17
 
-Dependencies
+### Dependencies
 spring-boot-starter-data-jpa
 spring-boot-starter-web
 h2
