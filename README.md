@@ -14,8 +14,8 @@ jar
 17
 
 ### Dependencies
-spring-boot-starter-data-jpa
-spring-boot-starter-web
-h2
-lombok
-spring-boot-starter-test
+- spring-boot-starter-data-jpa
+- spring-boot-starter-web
+- h2
+- lombok
+- spring-boot-starter-test
